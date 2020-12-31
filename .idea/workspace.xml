@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2939bbf-5b90-44b4-b665-f6c5ba607033" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex201.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex202.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex203'.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex204.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex205.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex206.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex207.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex208.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex209.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex210.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex211.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex212.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex213.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex214.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex215.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex216.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex217.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex218.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex222.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="05a271b7-7a85-4e8e-9e01-419fb266c7cd" name="TestServer" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1mPVX9hEsTmmRG8DyUVjzRNvPij" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ex201.php" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="server" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/ex201.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2939bbf-5b90-44b4-b665-f6c5ba607033" name="Default Changelist" comment="" />
+      <created>1609395249646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609395249646</updated>
+      <workItem from="1609395250721" duration="914000" />
+      <workItem from="1609396234356" duration="388000" />
+      <workItem from="1609396675318" duration="1976000" />
+      <workItem from="1609398721215" duration="3446000" />
+      <workItem from="1609404336141" duration="1582000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
